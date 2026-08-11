@@ -19,13 +19,13 @@ I enjoy working across the development lifecycle — from exploring and preparin
 
 ---
 
-##🧠 Professional Focus
-🤖 Machine Learning & Predictive Modeling
-🧠 Deep Learning & Neural Networks
-💬 Natural Language Processing
-📊 Data Analysis & Visualization
-🔗 AI Integration & APIs
-💻 Problem Solving & Algorithmic Thinking
+🧠 Professional Focus
+- 🤖Machine Learning & Predictive Modeling
+- 🧠Deep Learning & Neural Networks
+- 💬Natural Language Processing
+- 📊Data Analysis & Visualization
+- 🔗AI Integration & APIs
+- 💻Problem Solving & Algorithmic Thinking
 
 ---
  
@@ -74,12 +74,6 @@ I enjoy working across the development lifecycle — from exploring and preparin
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taniskaa-Saha&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniskaa-Saha&layout=compact&hide_border=true) 
-
----
-
 ## 🎯 Goals  
 - Build and deploy practical AI/ML solutions for real-world problems
 - Strengthen expertise in Machine Learning, Deep Learning, NLP, and Generative AI
@@ -87,3 +81,9 @@ I enjoy working across the development lifecycle — from exploring and preparin
 - Contribute to open-source and collaborative development
 - Continuously improve problem-solving, software development, and system design skills
 - Turn ideas into useful and impactful technology
+
+---
+
+## 📫 Connect With Me
+* 💼 **LinkedIn:** `[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/taniskaa-saha-b70885272/)`
+* 📧 **Email:** `taniskaasaha.pro@gmail.com`
